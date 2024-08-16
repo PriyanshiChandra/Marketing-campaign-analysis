@@ -1,13 +1,13 @@
 # Marketing-campaign-analysis<br>
 
-# 1. Introduction
+**Introduction**
 
 *   What is the impact of each marketing strategy and sales visit on Sales (Amount Collected)?
 *   Is the same strategy valid for all the different client types?
 
-Our aim is to answer questions like: 
+Our aim is to: 
 
-**Exploring and Understanding basics of data**<br>
+**Explore and Understand the basics of data**<br>
 
 1.   Distribution of data across different accounts
 2.   Difference of sales in account types (using categorical mean)
